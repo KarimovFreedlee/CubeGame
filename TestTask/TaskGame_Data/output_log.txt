@@ -1,0 +1,25 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6620G (ID=0x9641)
+    Vendor:   ATI
+    VRAM:     2531 MB
+    Driver:   15.200.1062.1004
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Проект Юнити\TestTask\TaskGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Проект Юнити\TestTask\TaskGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Проект Юнити\TestTask\TaskGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Проект Юнити\TestTask\TaskGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Проект Юнити\TestTask\TaskGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Проект Юнити\TestTask\TaskGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Проект Юнити\TestTask\TaskGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Проект Юнити\TestTask\TaskGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.325 seconds
+Platform assembly: D:\Проект Юнити\TestTask\TaskGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Проект Юнити\TestTask\TaskGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 59Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 32.856201 ms
